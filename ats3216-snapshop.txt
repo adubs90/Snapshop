@@ -1,0 +1,30 @@
+Assignment 3 - Snapshop
+Executive Summary 
+TCSS 305: Programming Practicum, Autumn 2011
+
+Name: Alex Stringham
+UWNetID: ats3216
+Subversion Revision Number: 18
+
+Assignment Overview
+
+Snapshop was an assignment that had learn to implement a GUI based off of some given classes.
+Tons of new keywords were learned by me in this assignment. To name  a few: JFrame, JPanel, 
+JButton, JFileChooser, BorderLayout, FlowLayout, JLabel, ActionListener, WindowEvent, 
+ActionEvent, and JOptionPane. We were to display a gui with filter buttons, load an image, 
+use those filter buttons to alter the image in various ways. 
+
+
+Technical Impression
+
+This assignment provided me with a very very big challenge in that I have never worked with
+GUI building or Swing before. It took a lot of messing around to understand what each Swing
+element did and how they interact with eachother. By far the two most difficult parts in my
+opinion, was the implementation of the filter buttons. Understanding how to form the buttons
+so that they could be "filtered" was a big big challenge, and took many trials and failures. 
+The other difficult part (as you wil see in my program) is trying to get the image to save to 
+a file. I don't know if it was that I didn't understand how to implement the given save() 
+method correctly, or what the problem was, but I could not get it to function properly without
+it giving me a FileNotFoundException. I also could not get the "Static Variable Definition in 
+wrong order." error to go away. I tried rearranging the 'private' 'static' and 'final' around
+but that didn't seem to help, so im not entirely sure what it is asking.

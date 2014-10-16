@@ -1,0 +1,44 @@
+10
+
+dir
+18
+svn+ssh://cssgate.insttech.washington.edu/home/INSTTECH/ats3216/svn/css305a11/ats3216-snapshop/src/snapshop
+svn+ssh://cssgate.insttech.washington.edu/home/INSTTECH/ats3216/svn/css305a11
+
+
+
+2011-10-29T05:34:50.176073Z
+18
+ats3216
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+646ce446-7b8d-4177-8feb-5dba27f77be4
+
+
+
+
+
+
+0
+
+filters
+dir
+
+gui
+dir
+
+image
+dir
+
